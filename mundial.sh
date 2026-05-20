@@ -76,13 +76,14 @@ fi
 
 elif [ "$opcion" = "5" ]; then
 
-if grep "partido" "$ARCHIVO"; then
+echo "historial de partidos:"
 
-echo "historial de partidos: "
+if grep "partido" "$ARCHIVO"; then
+echo "historial mostrado"
 
 else
-echo "no hay partidos registrados"
 
+echo "no hay partidos registrados"
 fi
 
 elif [ "$opcion" = "6" ]; then

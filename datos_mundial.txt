@@ -1,0 +1,10 @@
+campeon actual: alemania
+equipo belgica
+equipo republica checa
+equipo dinamarca
+equipo espana
+equipo canada
+equipo alemania
+equipo italia
+equipo uruguay
+
